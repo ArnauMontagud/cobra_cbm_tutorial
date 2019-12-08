@@ -1,5 +1,6 @@
-# cobra_cbm_tutorial
-This is a basic tutorial on Constraint-Based Metabolic Modeling using python-cobra
+# Repository of the practical course "Constraint-based modelling: a primer on basics and examples" 
+## Prepared by Miguel Ponce de León and Arnau Montagud from the Barcelona Supercomputing Center for the "Máster Universitario en Bioinformática" by the "Universitat de València".
+This is a basic tutorial on Constraint-Based Metabolic Modelling using python-cobra. Requirements can be found in INSTALL or requirement files.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArnauMontagud/cobra_cbm_tutorial/master?filepath=CBM_tutorial2.ipynb)
 
